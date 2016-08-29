@@ -1,0 +1,15 @@
+A B 8
+A C 12
+A I 14
+I F 4
+I Z 9
+I G 13
+I V 21
+B G 8
+B K 14
+B D 18
+B F 5
+G C 12
+G Z 4
+G O 9
+G D 15
